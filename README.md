@@ -24,7 +24,10 @@ Welcome to my profile! I'm a student in Computer Science, passionate about becom
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://github.com/user-attachments/assets/709c277b-c741-4b20-a98e-b2467c34dca6" alt="Cairo" width="50" height="50"/>
 </p>
+
+
 
 ---
 
