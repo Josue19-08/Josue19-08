@@ -1,15 +1,14 @@
-<h1 align="center">Hi there! I'm Josué 👋</h1>
+![github-header-image (1)](https://github.com/user-attachments/assets/4bff87f6-ba64-4127-8ab6-2d6a7c577a8e)
 
 <p align="center">
-Welcome to my profile! I'm a student in Computer Science, passionate about becoming a developer. I love learning new technologies and am gradually exploring Web3.
+Fullstack Developer passionate about building web applications and exploring cutting-edge technologies. Currently diving into Web3 and decentralized systems. Let's code the future! 🚀
 </p>
 
----
-
 ### 👨‍💻 About Me
-- 🎓 **Student in Computer Science**, aiming to become a skilled developer.
-- 🚀 Passionate about **learning new technologies** and diving into Web3.
-- 🐠 I love my aquarium and dream of creating a **game where you can care for your aquarium**.
+- 💻 **Fullstack Developer** specializing in modern web technologies and scalable solutions.
+- 🛠️ Building projects with **.NET, React, Angular, and Node.js**.
+- 🌐 Exploring **Web3** and blockchain development (currently learning Cairo for Starknet).
+- 🐠 Fun side quest: Designing a **virtual aquarium game** to merge tech with my love for aquatic life.
 
 ---
 
@@ -61,13 +60,6 @@ Welcome to my profile! I'm a student in Computer Science, passionate about becom
 
 ---
 
-### 📊 GitHub Contributions
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Josue19-08&theme=radical" alt="Josué's Contribution Streak" />
-</p>
-
----
-
 ### 🌐 Let's Connect!
 <p align="center">
   <a href="https://x.com/josuearayamarin"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
@@ -79,3 +71,12 @@ Welcome to my profile! I'm a student in Computer Science, passionate about becom
 
 ### 🐟 Fun Fact:
 I’m inspired to create a **game about taking care of your aquarium**, combining my love for aquatics and technology!
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e705e4ed-4efa-4e77-a77b-e29b2980e957" alt="Monkey_developer">
+</p>
+
+
+
