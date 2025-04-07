@@ -70,7 +70,8 @@ Fullstack Developer passionate about building web applications and exploring cut
 ---
 
 ### 🐟 Fun Fact:
-I’m inspired to create a **game about taking care of your aquarium**, combining my love for aquatics and technology!
+I’m inspired to create a **game about taking care of your aquarium**, combining my love for aquatics and technology!  
+Now I’m actively building this vision as a **blockchain game** — say hello to [**Aqua-Stark**](https://github.com/AquaStark/Aqua-Stark) 🧪🐠
 
 
 
