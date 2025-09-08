@@ -36,9 +36,6 @@
   <a href="https://t.me/Josue1908Cr"> 
     <img src="https://img.shields.io/badge/-Telegram-0088CC?logo=telegram&logoColor=white&style=for-the-badge" /> 
   </a> 
-  <a href="mailto:josuemarin2009@hotmail.com"> 
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /> 
-  </a> 
 </div>
 
 ---
