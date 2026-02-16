@@ -12,7 +12,7 @@
 
 👋 Hey there! I'm Josué  
 🚀 Fullstack Developer passionate about Web3 & blockchain  
-🔗 Contributor & Maintainer OSS at Only Dust  
+🔗 Contributor & Maintainer OSS at Only Dust   
 📚 Business Informatics Student  
 
 <div align="center">
